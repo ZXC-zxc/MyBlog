@@ -3,6 +3,7 @@ layout: post
 title:  "门限签名介绍"
 date:   2022-10-08 16:09:51 +0800
 categories: Threshold
+usemathjax: true
 ---
 
 &emsp;&emsp;门限签名方案 (*Threshold Signature Scheme* 以下简称TSS) 是用于分布式密钥生成和签名的加密原语。在区块链客户端中使用 TSS 是一种新的思路，这可以为其提供许多好处，特别是在安全性方面。而在更广泛的意义上来说，TSS 可以影响到现有密钥管理系统(例如[加密钱包](https://academy.binance.com/en/articles/crypto-wallet-types-explained))的设计，并在与[DeFi](https://academy.binance.com/en/glossary/defi)应用结合的过程中进行原生化的支持。尽管如此，TSS在现在仍然是一项新技术，因此在使用中还应考虑到实际的风险和局限性。  
