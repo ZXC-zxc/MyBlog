@@ -149,5 +149,5 @@ usemathjax: true
 
 &emsp;&emsp;我很高兴看到第一作者 Dan Boneh 致力于加密货币。他是一位伟大的密码学家，他的 [coursera 密码课程](https://www.coursera.org/learn/crypto)非常出色。我也推荐他写的密码学的[书](http://toc.cryptobook.us/)，尽管它还没有完成。我相信在不久的将来，我们会看到他和他的团队带来许多有趣的方案和协议改进。
 
-本应翻译自：
+本文翻译自：
 https://medium.com/cryptoadvance/bls-signatures-better-than-schnorr-5a7fe30ea716
