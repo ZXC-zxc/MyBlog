@@ -39,7 +39,7 @@ usemathjax: true
 * 一个预哈希函数 ***PH***  
 
 ## **04.Ed25519**
-&emsp;&emsp;Ed25519 是EdDSA曲线参数的一个实例，它在[RFC 7748](https://tools.ietf.org/html/rfc7748)中定义。你可以在其中找到 [RFC 8023](https://tools.ietf.org/html/rfc8032#section-5.1) 的第 5.1 节列出的完整的参数列表，但这里有一些你可能想知道的更重要的参数：
+&emsp;&emsp;Ed25519 使用 [RFC 7748]((https://tools.ietf.org/html/rfc7748)) 中定义的曲线参数进行实例化。你可以在 [RFC 8023](https://tools.ietf.org/html/rfc8032#section-5.1) 的第 5.1 节列找出的完整的参数列表，但这里有一些你可能想知道的更重要的参数：
 * ***b = 256***,所以Ed25519的公钥是256比特的，而签名值是512比特的。
 * ***H(x) = SHA-512(x)***  
 
